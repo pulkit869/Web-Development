@@ -1,0 +1,13 @@
+h2{
+    color: crimson;
+    background: darkgrey;
+}
+option{
+    color: rgb(123, 104, 233);
+}
+label{
+    color: maroon;
+}
+input{
+    color: mediumvioletred;
+}
